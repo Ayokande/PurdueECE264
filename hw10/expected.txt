@@ -1,0 +1,29 @@
+X X X X X   X X X 
+X               X 
+X   X X X   X X X 
+X   X   X       X 
+X   X   X X X X X 
+X               X 
+X X X X X   X X X 
+X X X X X   X X X 
+X               X 
+X   X X X   X X X 
+X   X   X       X 
+X   X   X X X X X 
+X               X 
+X X X X X   X X X 
+X               X 
+X   X X X   X X X 
+X   X   X       X 
+X   X   X X X X X 
+X               X 
+X X X X X   X X X 
+X X X X X   X X X X X   X X X X X 
+X               X               X 
+X   X X X   X X X X X   X X X   X 
+X   X   X               X   X   X 
+X   X   X X X X X X X X X   X   X 
+X               X               X 
+X X X X X   X X X X X   X X X X X 
+4
+2

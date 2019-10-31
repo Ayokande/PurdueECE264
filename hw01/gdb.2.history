@@ -1,0 +1,18 @@
+set logging file gdb.2.log
+set logging on
+set history filename gdb.2.history
+set history save
+break 17
+list
+list
+break print_prime_factors
+run
+c
+c
+c
+c
+list 
+lis
+list
+until 34
+quit
